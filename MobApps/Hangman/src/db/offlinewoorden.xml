@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game>
+    <categories>
+        <category>
+            <naam>dieren</naam>
+            <woorden>
+                <woord>hondje</woord>
+                <woord>poes</woord>
+                <woord>aap</woord>
+            </woorden>
+        </category>     
+        <category>
+            <naam>auto's</naam>
+            <woorden>
+                <woord>lamborghini</woord>
+                <woord>ford</woord>
+                <woord>ferrari</woord>
+                <woord>subaru</woord>
+            </woorden>
+        </category>        
+        <category>
+            <naam>landen</naam>
+            <woorden>
+                <woord>nederland</woord>
+                <woord>djibouti</woord>
+                <woord>canada</woord>
+                <woord>jamaica</woord>
+            </woorden>
+        </category>
+	</categories>       
+</game>
