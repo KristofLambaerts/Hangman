@@ -2,29 +2,86 @@
 <game>
     <categories>
         <category>
-            <naam>dieren</naam>
-            <woorden>
-                <woord>hondje</woord>
-                <woord>poes</woord>
-                <woord>aap</woord>
-            </woorden>
-        </category>     
-        <category>
+            <category>
             <naam>auto's</naam>
             <woorden>
-                <woord>lamborghini</woord>
-                <woord>ford</woord>
+                <woord>bugatti</woord>
+                <woord>bmw</woord>
+                <woord>citroen</woord>
+                <woord>dacia</woord>
                 <woord>ferrari</woord>
+                <woord>ford</woord>
+                <woord>honda</woord>
+                <woord>hyuandai</woord>
+                <woord>jaguar</woord>
+                <woord>kia</woord>
+                <woord>lamborghini</woord>
+                <woord>maserati</woord>
+                <woord>mercedes</woord>
+                <woord>nissan</woord>
+                <woord>opel</woord>
+                <woord>porsche</woord>
+                <woord>renault</woord>
                 <woord>subaru</woord>
+                <woord>suzuki</woord>
+                <woord>toyota</woord>
             </woorden>
-        </category>        
+        </category> 
+            <naam>dieren</naam>
+            <woorden>
+                <woord>aap</woord>
+                <woord>bij</woord>
+                <woord>cavia</woord>
+                <woord>dromedaris</woord>
+                <woord>ezel</woord>
+                <woord>flamingo</woord>
+                <woord>fret</woord>
+                <woord>geit</woord>
+                <woord>hond</woord>
+                <woord>kat</woord>
+                <woord>lijger</woord>
+                <woord>mestkever</woord>
+                <woord>neushoorn</woord>
+                <woord>olifant</woord>
+                <woord>paard</woord>
+                <woord>poes</woord>
+                <woord>reiger</woord>
+                <woord>slang</woord>
+                <woord>tijger</woord>
+                <woord>vogel</woord>
+                <woord>walrus</woord>
+                <woord>zebra</woord>
+            </woorden>
+        </category>                    
         <category>
             <naam>landen</naam>
             <woorden>
-                <woord>nederland</woord>
-                <woord>djibouti</woord>
+                <woord>andorra</woord>
+                <woord>benin</woord>
                 <woord>canada</woord>
+                <woord>china</woord>
+                <woord>colombia</woord>
+                <woord>denemarken</woord>
+                <woord>djibouti</woord>
+                <woord>egypte</woord>
+                <woord>finland</woord>
+                <woord>griekenland</woord>
+                <woord>hongarije</woord>
+                <woord>ijsland</woord>
                 <woord>jamaica</woord>
+                <woord>kameroen</woord>
+                <woord>luxemburg</woord>
+                <woord>madagascar</woord>
+                <woord>nederland</woord>
+                <woord>oekraine</woord>
+                <woord>polen</woord>
+                <woord>qatar</woord>
+                <woord>rusland</woord>  
+                <woord>senegal</woord>
+                <woord>turkije</woord>
+                <woord>uruguay</woord>
+                <woord>venezuela</woord>
+                <woord>zambia</woord>                 
             </woorden>
         </category>
 	</categories>       
